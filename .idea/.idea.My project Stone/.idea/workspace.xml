@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b" name="Default Changelist" comment="m" />
+    <list default="true" id="32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b" name="Default Changelist" comment="bhvnvhjvjh">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="2FxjdWlWD3BTdGZWOQeavrO1acN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665440723660</updated>
-      <workItem from="1665440754665" duration="1037000" />
+      <workItem from="1665440754665" duration="2122000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1665442205702</created>
@@ -68,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665442205702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bhvnvhjvjh">
+      <created>1665442858022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665442858023</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bhvnvhjvjh">
+      <created>1665442892755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665442892755</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,9 +113,14 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="m" />
-    <option name="LAST_COMMIT_MESSAGE" value="m" />
+    <MESSAGE value="bhvnvhjvjh" />
+    <option name="LAST_COMMIT_MESSAGE" value="bhvnvhjvjh" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="570" y="355" key="Github.ShareDialog" timestamp="1665443099849">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="570" y="355" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1665443099849" />
     <state x="502" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1665442274354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
