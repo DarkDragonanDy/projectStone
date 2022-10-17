@@ -7,14 +7,17 @@ public class MONO : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
         
     }
 
     // Update is called once per frame
     void Update()
     {
-        //jhfgsajdfgkasjhgdfajksgfdaksfjgh
-        Debug.Log("hello world");
+        Debug.Log("Hello world");
+        Debug.Log("Hello world");
+        Debug.Log("Hello world");
+        
+        
+        
     }
 }
