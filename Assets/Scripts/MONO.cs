@@ -14,5 +14,10 @@ public class MONO : MonoBehaviour
     void Update()
     {
         Debug.Log("Hello world");
+        Debug.Log("Hello world");
+        Debug.Log("Hello world");
+        
+        
+        
     }
 }

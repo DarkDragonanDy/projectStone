@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b" name="Default Changelist" comment="bhvnvhjvjh">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MONO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MONO.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MONO.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665440723660</updated>
       <workItem from="1665440754665" duration="2122000" />
+      <workItem from="1665963265746" duration="1765000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1665442205702</created>
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665442892755</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1665963440075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665963440076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,26 +114,48 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="m" />
     <MESSAGE value="bhvnvhjvjh" />
-    <option name="LAST_COMMIT_MESSAGE" value="bhvnvhjvjh" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="570" y="355" key="Github.ShareDialog" timestamp="1665443099849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="355" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1665443099849" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1665964923455">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665964923455" />
     <state x="502" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1665442274354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="502" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1440.900@0.0.1440.900" timestamp="1665442274354" />
+    <state x="520" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665964762198">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1665964762198" />
   </component>
 </project>
