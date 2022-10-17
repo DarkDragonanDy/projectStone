@@ -17,6 +17,10 @@ public class MONO : MonoBehaviour
         Debug.Log("Hello world");
         Debug.Log("Hello world");
         
+        Debug.Log("Hello world");
+        Debug.Log("Hello world");
+        Debug.Log("Hello world");
+        
         
         
     }
