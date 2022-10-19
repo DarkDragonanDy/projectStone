@@ -19,8 +19,10 @@
     <list default="true" id="32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -84,6 +86,9 @@
       <workItem from="1665967226946" duration="309000" />
       <workItem from="1665967552982" duration="103000" />
       <workItem from="1666049711252" duration="333000" />
+      <workItem from="1666207942374" duration="100000" />
+      <workItem from="1666208062438" duration="679000" />
+      <workItem from="1666208838726" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1665442205702</created>
@@ -120,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665966782887</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I hope">
+      <created>1666050142556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666050142556</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,21 +170,27 @@
     <MESSAGE value="bhvnvhjvjh" />
     <MESSAGE value="commit" />
     <MESSAGE value="g" />
-    <option name="LAST_COMMIT_MESSAGE" value="g" />
+    <MESSAGE value="I hope" />
+    <option name="LAST_COMMIT_MESSAGE" value="I hope" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1665967536563">
+    <state x="320" y="95" key="#Plugins" timestamp="1666209040492">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="95" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1666209040492" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1666208761617">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1665967536563" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1666208761617" />
     <state x="570" y="355" key="Github.ShareDialog" timestamp="1665443099849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="355" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1665443099849" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1665964923455">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1666050177023">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665964923455" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1666050177023" />
     <state x="412" y="106" key="VcsDiffUtil.ChangesDialog" timestamp="1665967345735">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
