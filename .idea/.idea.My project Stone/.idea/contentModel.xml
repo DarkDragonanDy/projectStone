@@ -4,8 +4,16 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Animation" t="Include" />
+        <e p="Prefab" t="Include" />
+        <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
-          <e p="MONO.cs" t="Include" />
+          <e p="CharacterController2D.cs" t="Include" />
+          <e p="MovementNew.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Idle sprite" t="Include" />
+          <e p="Jump sprite" t="Include" />
         </e>
       </e>
       <e p="My project Stone.sln" t="IncludeFlat" />
