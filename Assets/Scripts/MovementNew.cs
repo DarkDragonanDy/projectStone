@@ -8,24 +8,34 @@ public class MovementNew : MonoBehaviour
 {
     public CharacterController2D controller;
     public float speed = 40f;
+    public Animator animation;
 
     private float horizontalMove = 0f;
+    bool jump = false;
+    
 
-    private bool jump = false;
+
     // Start is called before the first frame update
-    void Start()
+    
+    //nafi editing below
+    
+    private void Start()
     {
         
-    }
+    } 
 
     // Update is called once per frame
     void Update()
     {
         horizontalMove = Input.GetAxis("Horizontal") * speed;
+        animation.SetFloat("Run",Math.Abs(horizontalMove));
+       
+        animation.SetBool("Jump1",jump);
         if (Input.GetButtonDown("Jump"))
         {
             jump = true;
         }
+        
     }
 
     private void FixedUpdate()

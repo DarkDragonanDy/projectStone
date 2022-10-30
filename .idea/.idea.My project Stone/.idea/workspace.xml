@@ -18,15 +18,17 @@
   <component name="ChangeListManager">
     <list default="true" id="32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b" name="Default Changelist" comment="We fixed it">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/R.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/R.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MONO.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MONO.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Jump_anim.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Jump_anim.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Run_0 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Run_0 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Run_anim.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Run_anim.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovementNew.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovementNew.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Run.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Run.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementNew.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,8 +53,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MONO.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement_new.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementNew.cs" />
       </list>
     </option>
