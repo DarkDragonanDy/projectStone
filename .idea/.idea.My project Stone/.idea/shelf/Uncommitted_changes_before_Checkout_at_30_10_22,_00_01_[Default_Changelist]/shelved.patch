@@ -1,0 +1,196 @@
+Index: .idea/.idea.My project Stone/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"BRANCH:master\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </select>\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Assets/Scenes/SampleScene.unity\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Assets/Scenes/SampleScene.unity\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Packages/manifest.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Packages/manifest.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Packages/packages-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Packages/packages-lock.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/.gitignore\" />\n        <option value=\"$PROJECT_DIR$/Assets/Scripts/MONO.cs\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"2FxjdWlWD3BTdGZWOQeavrO1acN\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"Discover.Launch.Via.Unity\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\" selected=\"Attach to Unity Editor.Attach to Unity Editor\">\n    <configuration name=\"Attach to Unity Editor &amp; Play\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"UNITY_ATTACH_AND_PLAY\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\n      <option name=\"allowRunningInParallel\" value=\"false\" />\n      <option name=\"listenPortForConnections\" value=\"false\" />\n      <option name=\"pid\" />\n      <option name=\"selectedOptions\">\n        <set />\n      </option>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Attach to Unity Editor\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"Unity Debug\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\n      <option name=\"allowRunningInParallel\" value=\"false\" />\n      <option name=\"listenPortForConnections\" value=\"false\" />\n      <option name=\"pid\" />\n      <option name=\"selectedOptions\">\n        <set />\n      </option>\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b\" name=\"Default Changelist\" comment=\"\" />\n      <created>1665440723660</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1665440723660</updated>\n      <workItem from=\"1665440754665\" duration=\"2122000\" />\n      <workItem from=\"1665963265746\" duration=\"1765000\" />\n      <workItem from=\"1665966558757\" duration=\"621000\" />\n      <workItem from=\"1665967226946\" duration=\"309000\" />\n      <workItem from=\"1665967552982\" duration=\"103000\" />\n      <workItem from=\"1666049711252\" duration=\"333000\" />\n      <workItem from=\"1666207942374\" duration=\"100000\" />\n      <workItem from=\"1666208062438\" duration=\"679000\" />\n      <workItem from=\"1666208838726\" duration=\"205000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"m\">\n      <created>1665442205702</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1665442205702</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"bhvnvhjvjh\">\n      <created>1665442858022</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1665442858023</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"bhvnvhjvjh\">\n      <created>1665442892755</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1665442892755</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"commit\">\n      <created>1665963440075</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1665963440076</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"g\">\n      <created>1665966782886</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1665966782887</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"I hope\">\n      <created>1666050142556</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1666050142556</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"true\" />\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"EditMode\" />\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"master\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\n    <MESSAGE value=\"m\" />\n    <MESSAGE value=\"bhvnvhjvjh\" />\n    <MESSAGE value=\"commit\" />\n    <MESSAGE value=\"g\" />\n    <MESSAGE value=\"I hope\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"I hope\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"320\" y=\"95\" key=\"#Plugins\" timestamp=\"1666209040492\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"320\" y=\"95\" key=\"#Plugins/0.0.1440.900@0.0.1440.900\" timestamp=\"1666209040492\" />\n    <state x=\"100\" y=\"100\" width=\"1240\" height=\"700\" key=\"DiffContextDialog\" timestamp=\"1666208761617\">\n      <screen x=\"0\" y=\"25\" width=\"1440\" height=\"875\" />\n    </state>\n    <state x=\"100\" y=\"100\" width=\"1240\" height=\"700\" key=\"DiffContextDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1665967536563\" />\n    <state x=\"100\" y=\"100\" width=\"1240\" height=\"700\" key=\"DiffContextDialog/0.25.1440.875@0.25.1440.875\" timestamp=\"1666208761617\" />\n    <state x=\"570\" y=\"355\" key=\"Github.ShareDialog\" timestamp=\"1665443099849\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"570\" y=\"355\" key=\"Github.ShareDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1665443099849\" />\n    <state x=\"320\" y=\"183\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1666050177023\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"320\" y=\"183\" key=\"Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900\" timestamp=\"1666050177023\" />\n    <state x=\"412\" y=\"106\" key=\"VcsDiffUtil.ChangesDialog\" timestamp=\"1665967345735\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"412\" y=\"106\" key=\"VcsDiffUtil.ChangesDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1665967345735\" />\n    <state x=\"502\" y=\"106\" key=\"com.intellij.openapi.vcs.changes.SpecificFilesViewDialog\" timestamp=\"1665442274354\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"502\" y=\"106\" key=\"com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1665442274354\" />\n    <state x=\"520\" y=\"364\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1666049952328\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"520\" y=\"364\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900\" timestamp=\"1666049952328\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.idea.My project Stone/.idea/workspace.xml	(revision 5527bf8166899516eb291ae47cf71b10f94c2dd9)
++++ .idea/.idea.My project Stone/.idea/workspace.xml	(date 1667077273313)
+@@ -18,11 +18,7 @@
+   <component name="ChangeListManager">
+     <list default="true" id="32ad43c1-c972-4c1f-b55c-bc6e9c3d5d7b" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/contentModel.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project Stone/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -30,6 +26,11 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="f74ef6382150094937706be452a1386633283c62" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+Index: Packages/packages-lock.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n  \"dependencies\": {\n    \"com.unity.2d.animation\": {\n      \"version\": \"7.0.3\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.2d.common\": \"6.0.2\",\n        \"com.unity.2d.sprite\": \"1.0.0\",\n        \"com.unity.modules.animation\": \"1.0.0\",\n        \"com.unity.modules.uielements\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.common\": {\n      \"version\": \"6.0.2\",\n      \"depth\": 2,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.2d.sprite\": \"1.0.0\",\n        \"com.unity.mathematics\": \"1.1.0\",\n        \"com.unity.modules.uielements\": \"1.0.0\",\n        \"com.unity.burst\": \"1.5.1\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.path\": {\n      \"version\": \"5.0.1\",\n      \"depth\": 2,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.pixel-perfect\": {\n      \"version\": \"5.0.1\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.psdimporter\": {\n      \"version\": \"6.0.2\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.2d.animation\": \"7.0.3\",\n        \"com.unity.2d.common\": \"6.0.2\",\n        \"com.unity.2d.sprite\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.sprite\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 1,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.2d.spriteshape\": {\n      \"version\": \"7.0.3\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.mathematics\": \"1.1.0\",\n        \"com.unity.2d.common\": \"6.0.1\",\n        \"com.unity.2d.path\": \"5.0.1\",\n        \"com.unity.modules.physics2d\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.tilemap\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 1,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.2d.tilemap.extras\": {\n      \"version\": \"2.2.1\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.modules.tilemap\": \"1.0.0\",\n        \"com.unity.2d.tilemap\": \"1.0.0\",\n        \"com.unity.ugui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.burst\": {\n      \"version\": \"1.6.4\",\n      \"depth\": 3,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.mathematics\": \"1.2.1\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.collab-proxy\": {\n      \"version\": \"1.17.2\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.services.core\": \"1.0.1\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ext.nunit\": {\n      \"version\": \"1.0.6\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.feature.2d\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.2d.animation\": \"7.0.3\",\n        \"com.unity.2d.pixel-perfect\": \"5.0.1\",\n        \"com.unity.2d.psdimporter\": \"6.0.2\",\n        \"com.unity.2d.sprite\": \"1.0.0\",\n        \"com.unity.2d.spriteshape\": \"7.0.3\",\n        \"com.unity.2d.tilemap\": \"1.0.0\",\n        \"com.unity.2d.tilemap.extras\": \"2.2.1\"\n      }\n    },\n    \"com.unity.ide.rider\": {\n      \"version\": \"3.0.16\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.ext.nunit\": \"1.0.6\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ide.visualstudio\": {\n      \"version\": \"2.0.16\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.test-framework\": \"1.1.9\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ide.vscode\": {\n      \"version\": \"1.2.5\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.mathematics\": {\n      \"version\": \"1.2.5\",\n      \"depth\": 2,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.services.core\": {\n      \"version\": \"1.0.1\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.test-framework\": {\n      \"version\": \"1.1.31\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.ext.nunit\": \"1.0.6\",\n        \"com.unity.modules.imgui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.textmeshpro\": {\n      \"version\": \"3.0.6\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.ugui\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.timeline\": {\n      \"version\": \"1.6.4\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.modules.director\": \"1.0.0\",\n        \"com.unity.modules.animation\": \"1.0.0\",\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.particlesystem\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ugui\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.ui\": \"1.0.0\",\n        \"com.unity.modules.imgui\": \"1.0.0\"\n      }\n    },\n    \"com.unity.visualscripting\": {\n      \"version\": \"1.7.8\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.ugui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.modules.ai\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.androidjni\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.animation\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.assetbundle\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.audio\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.cloth\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.director\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.animation\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.imageconversion\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.imgui\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.jsonserialize\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.particlesystem\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.physics\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.physics2d\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.screencapture\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.imageconversion\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.subsystems\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 1,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.terrain\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.terrainphysics\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\",\n        \"com.unity.modules.terrain\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.tilemap\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics2d\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.ui\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.uielements\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.ui\": \"1.0.0\",\n        \"com.unity.modules.imgui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\",\n        \"com.unity.modules.uielementsnative\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.uielementsnative\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 1,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.ui\": \"1.0.0\",\n        \"com.unity.modules.imgui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.umbra\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.unityanalytics\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequest\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.unitywebrequestassetbundle\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.assetbundle\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequestaudio\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.audio\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequesttexture\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.imageconversion\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequestwww\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequestassetbundle\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequestaudio\": \"1.0.0\",\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.assetbundle\": \"1.0.0\",\n        \"com.unity.modules.imageconversion\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.vehicles\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.video\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.ui\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.vr\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.jsonserialize\": \"1.0.0\",\n        \"com.unity.modules.physics\": \"1.0.0\",\n        \"com.unity.modules.xr\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.wind\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.xr\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\",\n        \"com.unity.modules.subsystems\": \"1.0.0\"\n      }\n    }\n  }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Packages/packages-lock.json	(revision 5527bf8166899516eb291ae47cf71b10f94c2dd9)
++++ Packages/packages-lock.json	(date 1667077229745)
+@@ -1,11 +1,11 @@
+ {
+   "dependencies": {
+     "com.unity.2d.animation": {
+-      "version": "7.0.3",
++      "version": "7.0.7",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {
+-        "com.unity.2d.common": "6.0.2",
++        "com.unity.2d.common": "6.0.4",
+         "com.unity.2d.sprite": "1.0.0",
+         "com.unity.modules.animation": "1.0.0",
+         "com.unity.modules.uielements": "1.0.0"
+@@ -13,7 +13,7 @@
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.2d.common": {
+-      "version": "6.0.2",
++      "version": "6.0.4",
+       "depth": 2,
+       "source": "registry",
+       "dependencies": {
+@@ -25,7 +25,7 @@
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.2d.path": {
+-      "version": "5.0.1",
++      "version": "5.0.2",
+       "depth": 2,
+       "source": "registry",
+       "dependencies": {},
+@@ -39,12 +39,12 @@
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.2d.psdimporter": {
+-      "version": "6.0.2",
++      "version": "6.0.5",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {
+-        "com.unity.2d.animation": "7.0.3",
+-        "com.unity.2d.common": "6.0.2",
++        "com.unity.2d.animation": "7.0.7",
++        "com.unity.2d.common": "6.0.4",
+         "com.unity.2d.sprite": "1.0.0"
+       },
+       "url": "https://packages.unity.com"
+@@ -56,13 +56,13 @@
+       "dependencies": {}
+     },
+     "com.unity.2d.spriteshape": {
+-      "version": "7.0.3",
++      "version": "7.0.6",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {
+         "com.unity.mathematics": "1.1.0",
+-        "com.unity.2d.common": "6.0.1",
+-        "com.unity.2d.path": "5.0.1",
++        "com.unity.2d.common": "6.0.4",
++        "com.unity.2d.path": "5.0.2",
+         "com.unity.modules.physics2d": "1.0.0"
+       },
+       "url": "https://packages.unity.com"
+@@ -74,7 +74,7 @@
+       "dependencies": {}
+     },
+     "com.unity.2d.tilemap.extras": {
+-      "version": "2.2.1",
++      "version": "2.2.3",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {
+@@ -86,7 +86,7 @@
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.burst": {
+-      "version": "1.6.4",
++      "version": "1.6.6",
+       "depth": 3,
+       "source": "registry",
+       "dependencies": {
+@@ -115,13 +115,13 @@
+       "depth": 0,
+       "source": "builtin",
+       "dependencies": {
+-        "com.unity.2d.animation": "7.0.3",
++        "com.unity.2d.animation": "7.0.7",
+         "com.unity.2d.pixel-perfect": "5.0.1",
+-        "com.unity.2d.psdimporter": "6.0.2",
++        "com.unity.2d.psdimporter": "6.0.5",
+         "com.unity.2d.sprite": "1.0.0",
+-        "com.unity.2d.spriteshape": "7.0.3",
++        "com.unity.2d.spriteshape": "7.0.6",
+         "com.unity.2d.tilemap": "1.0.0",
+-        "com.unity.2d.tilemap.extras": "2.2.1"
++        "com.unity.2d.tilemap.extras": "2.2.3"
+       }
+     },
+     "com.unity.ide.rider": {
+@@ -150,18 +150,27 @@
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.mathematics": {
+-      "version": "1.2.5",
++      "version": "1.2.6",
++      "depth": 2,
++      "source": "registry",
++      "dependencies": {},
++      "url": "https://packages.unity.com"
++    },
++    "com.unity.nuget.newtonsoft-json": {
++      "version": "3.0.2",
+       "depth": 2,
+       "source": "registry",
+       "dependencies": {},
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.services.core": {
+-      "version": "1.0.1",
++      "version": "1.4.2",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {
+-        "com.unity.modules.unitywebrequest": "1.0.0"
++        "com.unity.modules.unitywebrequest": "1.0.0",
++        "com.unity.nuget.newtonsoft-json": "3.0.2",
++        "com.unity.modules.androidjni": "1.0.0"
+       },
+       "url": "https://packages.unity.com"
+     },
+Index: .idea/.idea.My project Stone/.idea/contentModel.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ContentModelStore\">\n    <e p=\"$PROJECT_DIR$\" t=\"IncludeRecursive\">\n      <e p=\"Assembly-CSharp.csproj\" t=\"IncludeRecursive\" />\n      <e p=\"Assets\" t=\"Include\">\n        <e p=\"Scripts\" t=\"Include\">\n          <e p=\"MONO.cs\" t=\"Include\" />\n        </e>\n      </e>\n      <e p=\"My project Stone.sln\" t=\"IncludeFlat\" />\n      <e p=\"obj\" t=\"ExcludeRecursive\" />\n      <e p=\"Packages\" t=\"ExcludeRecursive\" />\n      <e p=\"Temp/Bin\" t=\"ExcludeRecursive\" />\n    </e>\n    <e p=\"$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources\" t=\"IncludeRecursive\" />\n    <e p=\"$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_My project Stone.554051276.00\" t=\"ExcludeRecursive\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.idea.My project Stone/.idea/contentModel.xml	(revision 5527bf8166899516eb291ae47cf71b10f94c2dd9)
++++ .idea/.idea.My project Stone/.idea/contentModel.xml	(date 1667077262779)
+@@ -4,8 +4,12 @@
+     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+       <e p="Assets" t="Include">
++        <e p="Scenes" t="Include" />
+         <e p="Scripts" t="Include">
+           <e p="MONO.cs" t="Include" />
++        </e>
++        <e p="Sprites" t="Include">
++          <e p="Tilemap" t="Include" />
+         </e>
+       </e>
+       <e p="My project Stone.sln" t="IncludeFlat" />
